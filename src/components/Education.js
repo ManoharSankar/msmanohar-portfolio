@@ -17,7 +17,6 @@ const Education = () => {
       <p>
         <strong>Bachelor of Engineering (ECE)</strong> – JNTU Anantapur | 2015 | 71%
       </p>
-      <p>Hyderabad</p>
     </motion.section>
   );
 };

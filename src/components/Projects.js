@@ -6,15 +6,31 @@ const projects = [
   {
     title: "CI/CD Pipeline for React App",
     description: "Built an automated pipeline using Jenkins and Docker. Integrated GitHub for source control and deployed to AWS EC2. Configured monitoring with Prometheus & Grafana.",
-    github: "https://github.com/ManoharSankar",
+    github: "https://github.com/ManoharSankar/ReactappCapstoneProject.git",
     demo: "#"
   },
+  
   {
-    title: "Cloud Infrastructure Automation",
-    description: "Implemented Terraform scripts for AWS infrastructure automation including EC2, S3, VPC, and EKS deployment.",
-    github: "https://github.com/ManoharSankar",
+    title: " Portfolio website",
+    description: "Building a portfolio",
+    github: "https://github.com/ManoharSankar/Manohar-portfolio.git",
     demo: "#"
-  }
+  },
+
+  {
+    title: "System Monitoring",
+    description: "Python System",
+    github: "https://github.com/ManoharSankar/Python-System-Mointoring.git",
+    demo: "#"
+  },
+
+  {
+    title: "Bnaking Project",
+    description: "This repo describe a banking app which made through java, springboot , where i have used Docker to deploy it and it is going to be end-to-end DevOps Project",
+    github: "https://github.com/ManoharSankar/banking-app-project.git",
+    demo: "#"
+  },
+
 ];
 
 const cardVariants = {

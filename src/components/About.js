@@ -19,7 +19,7 @@ const About = () => {
         orchestration, cloud infrastructure (AWS), and monitoring (Prometheus, Grafana).
       </p>
       <p>
-        <strong>Email:</strong> manoharsankar93@gmail.com | <strong>Phone:</strong> 9902199518
+        <strong>Email:</strong> manoharsankar93@gmail.com 
       </p>
       <p>
         <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/msmanohar" target="_blank">linkedin.com/in/msmanohar</a> | <strong>GitHub:</strong> <a href="https://github.com/ManoharSankar" target="_blank">github.com/ManoharSankar</a>
