@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/msmanohar-portfolio/static/css/main.f48ad404.css",
+    "main.js": "/msmanohar-portfolio/static/js/main.eb00a673.js",
+    "index.html": "/msmanohar-portfolio/index.html",
+    "main.f48ad404.css.map": "/msmanohar-portfolio/static/css/main.f48ad404.css.map",
+    "main.eb00a673.js.map": "/msmanohar-portfolio/static/js/main.eb00a673.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48ad404.css",
+    "static/js/main.eb00a673.js"
+  ]
+}
